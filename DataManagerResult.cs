@@ -1,0 +1,7 @@
+﻿namespace StudentManagementSystem
+{
+    class DataManagerResult
+    {
+
+    }
+}
